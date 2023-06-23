@@ -1,0 +1,17 @@
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.Model.deps.json
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.Model.dll
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\ref\Sistema.Model.dll
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.Model.pdb
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.DAO.dll
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.Entidades.dll
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.DAO.pdb
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\bin\Debug\net5.0\Sistema.Entidades.pdb
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.csproj.AssemblyReference.cache
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.AssemblyInfoInputs.cache
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.AssemblyInfo.cs
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.csproj.CoreCompileInputs.cache
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.csproj.CopyComplete
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.dll
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\ref\Sistema.Model.dll
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.Model\obj\Debug\net5.0\Sistema.Model.pdb

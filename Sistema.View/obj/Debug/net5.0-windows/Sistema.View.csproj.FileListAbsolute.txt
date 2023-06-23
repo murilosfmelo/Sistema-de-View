@@ -17,3 +17,11 @@ C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\obj\Debug\net5.0-window
 C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\obj\Debug\net5.0-windows\ref\Sistema.View.dll
 C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\obj\Debug\net5.0-windows\Sistema.View.pdb
 C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\obj\Debug\net5.0-windows\Sistema.View.genruntimeconfig.cache
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\bin\Debug\net5.0-windows\Sistema.DAO.dll
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\bin\Debug\net5.0-windows\Sistema.Entidades.dll
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\bin\Debug\net5.0-windows\Sistema.Model.dll
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\bin\Debug\net5.0-windows\Sistema.Entidades.pdb
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\bin\Debug\net5.0-windows\Sistema.Model.pdb
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\bin\Debug\net5.0-windows\Sistema.DAO.pdb
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\obj\Debug\net5.0-windows\Sistema.View.frmCadUsuario.resources
+C:\Users\murilo.sfmelo\source\repos\Sistema\Sistema.View\obj\Debug\net5.0-windows\Sistema.View.csproj.CopyComplete

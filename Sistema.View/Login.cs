@@ -26,7 +26,9 @@ namespace Sistema.View
 
         private void button1_Click(object sender, EventArgs e)
         {
+            frmCadUsuario form = new frmCadUsuario();
 
+            form.Show();
         }
 
         private void login_Load(object sender, EventArgs e)
