@@ -42,7 +42,7 @@ namespace Sistema.View
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(60, 58);
+            this.label1.Location = new System.Drawing.Point(18, 38);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(50, 15);
             this.label1.TabIndex = 0;
@@ -51,7 +51,7 @@ namespace Sistema.View
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(60, 93);
+            this.label2.Location = new System.Drawing.Point(18, 73);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(42, 15);
             this.label2.TabIndex = 1;
@@ -61,7 +61,7 @@ namespace Sistema.View
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(60, 217);
+            this.label3.Location = new System.Drawing.Point(18, 197);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(16, 15);
             this.label3.TabIndex = 2;
@@ -69,14 +69,14 @@ namespace Sistema.View
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(116, 50);
+            this.txtUsuario.Location = new System.Drawing.Point(74, 30);
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(130, 23);
             this.txtUsuario.TabIndex = 3;
             // 
             // txtSenha
             // 
-            this.txtSenha.Location = new System.Drawing.Point(116, 93);
+            this.txtSenha.Location = new System.Drawing.Point(74, 73);
             this.txtSenha.Name = "txtSenha";
             this.txtSenha.PasswordChar = '*';
             this.txtSenha.Size = new System.Drawing.Size(130, 23);
@@ -84,7 +84,7 @@ namespace Sistema.View
             // 
             // btnLogin
             // 
-            this.btnLogin.Location = new System.Drawing.Point(60, 171);
+            this.btnLogin.Location = new System.Drawing.Point(18, 151);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(75, 23);
             this.btnLogin.TabIndex = 5;
@@ -94,7 +94,7 @@ namespace Sistema.View
             // 
             // btnSair
             // 
-            this.btnSair.Location = new System.Drawing.Point(186, 171);
+            this.btnSair.Location = new System.Drawing.Point(144, 151);
             this.btnSair.Name = "btnSair";
             this.btnSair.Size = new System.Drawing.Size(75, 23);
             this.btnSair.TabIndex = 6;
@@ -106,7 +106,7 @@ namespace Sistema.View
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(279, 267);
+            this.ClientSize = new System.Drawing.Size(224, 229);
             this.Controls.Add(this.btnSair);
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.txtSenha);
@@ -116,6 +116,7 @@ namespace Sistema.View
             this.Controls.Add(this.label1);
             this.Name = "login";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

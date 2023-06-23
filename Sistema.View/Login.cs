@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Sistema.Entidades;
+using Sistema.Model;
 
 namespace Sistema.View
 {
@@ -23,6 +25,11 @@ namespace Sistema.View
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void login_Load(object sender, EventArgs e)
         {
 
         }

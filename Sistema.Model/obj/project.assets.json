@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Sistema.DAO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Sistema.Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sistema.DAO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sistema.DAO.dll": {}
+        }
+      },
+      "Sistema.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Sistema.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sistema.Entidades.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Sistema.DAO/1.0.0": {
+      "type": "project",
+      "path": "../Sistema.DAO/Sistema.DAO.csproj",
+      "msbuildProject": "../Sistema.DAO/Sistema.DAO.csproj"
+    },
+    "Sistema.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Sistema.Entidades/Sistema.Entidades.csproj",
+      "msbuildProject": "../Sistema.Entidades/Sistema.Entidades.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Sistema.DAO >= 1.0.0",
+      "Sistema.Entidades >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\murilo.sfmelo\\.nuget\\packages\\": {},
@@ -41,7 +79,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\murilo.sfmelo\\source\\repos\\Sistema\\Sistema.DAO\\Sistema.DAO.csproj": {
+              "projectPath": "C:\\Users\\murilo.sfmelo\\source\\repos\\Sistema\\Sistema.DAO\\Sistema.DAO.csproj"
+            },
+            "C:\\Users\\murilo.sfmelo\\source\\repos\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+              "projectPath": "C:\\Users\\murilo.sfmelo\\source\\repos\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
